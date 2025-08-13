@@ -17,7 +17,7 @@ Log your **sleep hours, steps, water intake, screen time, calories, and BMI** â€
 ## ðŸ“· Screenshots
 | CLI Menu | Graph Example | PDF Report |
 |----------|---------------|------------|
-| ![CLI](Health\CLI.png) | ![Graph](Health\Bmi_Category.png ) | ![PDF](Health\Report.png) |
+| ![CLI](Health/CLI.png) | ![Graph](Health/Bmi_Category.png ) | ![PDF](Health/Report.png) |
 
 ---
 
